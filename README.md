@@ -1,4 +1,4 @@
-## This is my entry repo for the freeCodeCamp Online Hackathon.
+## This is my entry repo for the freeCodeCamp Online Hackathon. https://hackathon.freecodecamp.org
 
 <p align="center">
   <a href="https://next.gatsbyjs.org">
